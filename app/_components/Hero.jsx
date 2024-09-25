@@ -19,7 +19,7 @@ function Hero() {
       </h1>
 
       <p className="mt-4 sm:text-xl/relaxed text-gray-200 ">
-       Start Exploring State of The Art Assets Now.
+       Start Exploring State of The Art Assets Now
       </p>
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">
